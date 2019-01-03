@@ -1,0 +1,24 @@
+body
+{
+  background-image: url("../img/contact.png");
+}
+.btn-primary
+{
+ background-color: SlATEBLUE;
+ border: SlATEBLUE;
+}
+.text-info
+{
+  width: 40%;
+  text-color: #afafaf;
+  background-color: steelblue;
+
+}
+/*
+ul
+{
+  display: flex;
+  margin-left: 27%;
+  justify-content: center;
+   width: 40%;
+}*/
